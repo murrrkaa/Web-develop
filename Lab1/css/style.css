@@ -43,7 +43,7 @@
 .road__titles {
   margin-bottom: 38px;
 }
-.road__title1 {
+.road__title {
   font-family: Lora, sans_serif;
   font-weight: 400;
   font-size: 50px;
@@ -53,7 +53,7 @@
   color: #2e2e2e;
   padding-bottom: 20px;
 }
-.road__title2 {
+.road__subtitle {
   font-family: Oxygen, sans-serif;
   font-weight: 400;
   font-size: 17px;
@@ -126,4 +126,8 @@
   line-height: 26px;
   letter-spacing: 1;
   color: #ffffff99;
+}
+.footer-logo {
+  z-index: 0;
+  margin-left: 250px;
 }
